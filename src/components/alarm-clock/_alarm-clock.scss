@@ -1,0 +1,11 @@
+@import '../../styles/variables';
+
+.alarm-clock {
+  select {
+    color: $black;
+  }
+
+  button {
+    background: white;
+  }
+}

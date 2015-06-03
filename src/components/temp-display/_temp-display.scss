@@ -1,0 +1,12 @@
+@import '../../styles/variables';
+
+.temp-display {
+  select,
+  input {
+    color: $black;
+  }
+
+  button {
+    background: white;
+  }
+}

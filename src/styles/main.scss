@@ -1,0 +1,10 @@
+@import 'normalize';
+@import 'skeleton';
+@import 'variables';
+
+html,
+body {
+  background-color: $black;
+  color: white;
+  font-family: 'Oxygen', 'Helvetica Neue', 'Arial';
+}
